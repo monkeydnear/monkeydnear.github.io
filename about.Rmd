@@ -1,0 +1,10 @@
+---
+title: "About"
+---
+
+### MY Curriculum Vitae
+
+
+<img src="resume.jpg" style="width:60%">
+
+

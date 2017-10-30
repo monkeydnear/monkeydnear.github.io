@@ -1,0 +1,26 @@
+---
+title: "Yixi's Website"
+---
+
+<img src="IMG_7423.jpg" style="width:60%">
+
+##About me
+
+- I am from Chongqing, China.
+
+- I got my BS in Biology from Baylor University in 2016.
+
+- Currently I am a first-year master student in biostatistics at Columbia Mailman School of Public Health.
+
+- Perosnal hobbies includes playing basketball, playing video games and collecting sneakers.
+
+##Contatct Information 
+Yixi Xu
+
+MS biostatistics
+
+Columbia Mailman School of Public Health
+
+Email: yx2450@cumc.columbia.edu
+
+Phone: 646-262-1387
